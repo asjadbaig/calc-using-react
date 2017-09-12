@@ -1,5 +1,7 @@
 html {
   box-sizing: border-box;
+  background-image: url("../build/static/media/table.jpg");
+
 }
 
 body {
@@ -33,7 +35,7 @@ button:active {
   justify-content: center;
 }
 
-#root {
+.calculator-wrap {
   width: 320px;
   height: 520px;
   position: relative;
