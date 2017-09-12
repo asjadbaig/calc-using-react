@@ -1,5 +1,4 @@
 import React, { Component } from 'react';
-import './App.css';
 import CalculatorKey from "./CalculatorKey.jsx";
 import CalculatorDisplay from "./CalculatorDisplay.jsx";
 import { Container, Row, Col } from 'reactstrap';
