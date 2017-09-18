@@ -1,4 +1,4 @@
-import React, { Component } from 'react';
+import React from 'react';
 class AutoScalingText extends React.Component {
   state = {
     scale: 1

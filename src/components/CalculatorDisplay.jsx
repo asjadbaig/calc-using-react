@@ -1,4 +1,4 @@
-import React, { Component } from 'react';
+import React from 'react';
 import AutoScalingText from "./AutoScalingText.jsx";
 class CalculatorDisplay extends React.Component {
   render() {

@@ -1,4 +1,4 @@
-import React, { Component } from 'react';
+import React from 'react';
 import PointTarget from 'react-point';
 
 class CalculatorKey extends React.Component {
